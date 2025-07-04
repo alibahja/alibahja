@@ -32,3 +32,8 @@ class About extends Me {
     "Tools" : { "Git" }
   };
 }
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibahja&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alibahja&layout=compact&theme=radical)
+
+
+
