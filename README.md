@@ -1,6 +1,6 @@
-<div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello" width="60%"/> <br>
+
+<div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 </div>
@@ -20,6 +20,11 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibahja&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alibahja&layout=compact&theme=radical)
 ```dart
 // tools_I_use organized
 
@@ -32,8 +37,6 @@ class About extends Me {
     "Tools" : { "Git" }
   };
 }
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibahja&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alibahja&layout=compact&theme=radical)
 
 
 
