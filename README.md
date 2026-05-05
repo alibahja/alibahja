@@ -46,7 +46,7 @@
 ---
 
 ##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibahja&show_icons=true&theme=radical&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibahja&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alibahja&layout=compact&theme=radical)
 
 
 ---
