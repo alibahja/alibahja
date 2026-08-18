@@ -21,6 +21,7 @@ My background in software engineering includes web, backend, and mobile developm
 - Natural Language Processing
 - Computer Vision
 - Object Detection and Semantic Segmentation
+- Software Engineering
 
 ---
 
